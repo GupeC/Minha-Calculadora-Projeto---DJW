@@ -12,10 +12,10 @@
 }
 
 .todo{
-    background-image: url(https://pbs.twimg.com/media/EvvZHLeXAAU29Wo.jpg);
-    height: 900px;
+    background-image: url(https://i.pinimg.com/originals/5e/17/fa/5e17fa8739543c4f21ff48717bcade84.gif);
+    height: 100vh;
     background-repeat: no-repeat;
-    background-size: 1370px;
+    background-size: 1900px;
 }
 .calculadora{
     position: absolute;
@@ -55,7 +55,7 @@
     left: 50%;
     bottom: 10%;
     transform: translate(-50%, -10%);
-    color: black;
+    color: white;
     font-family: 'Times New Roman';
     font-size: 35px;
 }
@@ -135,7 +135,8 @@ function calcular ()
     }
 }
     </script>
-        <p class="wanda">INVOCADORA DE CALCULADORA</p>
+        <p class="wanda">FANFIQUEIRA ESCARLATE</p>
+        
 
 </body>
 </html>

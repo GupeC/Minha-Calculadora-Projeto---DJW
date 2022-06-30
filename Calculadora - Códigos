@@ -19,12 +19,13 @@
 }
 .calculadora{
     position: absolute;
-    background-image: url(https://i.pinimg.com/originals/bf/82/f6/bf82f6956a32819af48c2572243e8286.jpg);
+    background-image: url(https://st.depositphotos.com/1082087/1358/i/600/depositphotos_13586832-stock-photo-burgundy-red-striped-paper-texture.jpg);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 15px;
     padding: 20px;
+
 }
 .botao{
     height: 50px;
@@ -32,13 +33,14 @@
     color: white;
     background-color: black;
     border-radius: 50px;
-    margin-left: 10px;
+    margin-left: 11px;
+    border: none;
 }
 .botao :hover{
     background-color: black;
 }
 #total{
-    width: 207px;
+    width: 230px;
     background-color: white;
     height: 30px;
     margin: 5px;
